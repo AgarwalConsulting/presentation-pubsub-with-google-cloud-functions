@@ -6,7 +6,7 @@ layout: true
 
 class: center, middle
 
-# {title}
+# GCP PubSub
 
 Gaurav Agarwal
 
@@ -44,7 +44,7 @@ func main() {
 class: center, middle
 
 Code
-https://github.com/algogrit/presentation-template
+https://github.com/AgarwalConsulting/presentation-gcp-pubsub
 
 Slides
-https://template.slides.algogrit.com
+https://gcp-pubsub.slides.agarwalconsulting.io
