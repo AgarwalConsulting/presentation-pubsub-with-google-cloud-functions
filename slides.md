@@ -282,8 +282,9 @@ class: center, middle
 ## Integrating with Cloud Functions
 
 ---
+class: center, middle
 
-
+*Demo*: Consume messages using `BackgroundFunction`
 
 ---
 class: center, middle
