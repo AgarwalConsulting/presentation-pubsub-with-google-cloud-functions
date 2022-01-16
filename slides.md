@@ -6,7 +6,7 @@ layout: true
 
 class: center, middle
 
-# GCP PubSub
+# PubSub + Google Cloud Functions
 
 Gaurav Agarwal
 
